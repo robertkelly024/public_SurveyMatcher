@@ -4,7 +4,9 @@ Note: This code uses MLX will only run (end-to-end) on Apple Silicon (M1 or abov
 
 Recommend creating a new environment before getting started, with Python 3.11 installed
 First install libraries from requirements.txt...run:
+```
 pip install -r requirements.txt
+```
 
 # Section 1 - Fine Tuning Open Source LLM to become good at extracting responsibilities, skills, and experience from raw job postings
 
