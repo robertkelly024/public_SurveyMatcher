@@ -10,3 +10,7 @@ nltk
 transformers
 gensim
 mlx-lm
+pandas
+openpyxl
+angle-emb
+FlagEmbedding
