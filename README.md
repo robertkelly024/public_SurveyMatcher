@@ -2,7 +2,7 @@
 
 Note: This code uses MLX will only run (end-to-end) on Apple Silicon (M1 or above chips)
 
-Recommend creating a new environment before getting started, with Python 3.11 installed
+Recommend creating a new environment before getting started, with Python 3.11 installed.
 First install libraries from requirements.txt...run:
 ```
 pip install -r requirements.txt
